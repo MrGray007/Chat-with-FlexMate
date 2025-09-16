@@ -25,6 +25,7 @@ cd Chat-with-FlexMate
 
 pip install -r requirements.txt
 
-F_TOKEN=your_huggingface_api_key
+In .env file
+HF_TOKEN=your_huggingface_api_key
 LANGSMITH_API_KEY=your_langsmith_api_key
 GROQ_API_KEY=your_groq_api_key
