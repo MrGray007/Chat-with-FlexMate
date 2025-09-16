@@ -1,0 +1,17 @@
+langchain_community
+ipykernel
+Beautifulsoup4
+langchain
+python-dotenv
+langchain-openai
+faiss-cpu
+langchain-llama
+pypdf
+wikipedia
+langchain-text-splitters
+transformers
+sentence-transformers
+huggingface-hub
+tokenizers
+langchain_huggingface
+langchain_core
